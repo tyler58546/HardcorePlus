@@ -1,0 +1,11 @@
+main: tyler58546.hardcoreplus.MainClass
+name: HardcorePlus
+version: 1.0
+author: tyler58546
+description: Enhanced hardcore mode for Minecraft.
+depend: [TitleAPI]
+commands:
+  lives:
+    description: Shows you how many lives are remianing
+    usage: /lives
+    permission-message: You do not have permission to run this command
